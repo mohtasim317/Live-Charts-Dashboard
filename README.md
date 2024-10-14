@@ -1,4 +1,4 @@
-# Oden Takehome
+# Live Chart Viewer
 
 Setup:
 
