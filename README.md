@@ -1,4 +1,4 @@
-# Live Chart Viewer
+# Live Charts Dashboard
 
 Setup:
 
